@@ -1,0 +1,33 @@
+/*fond del sitio ajustable*/
+body {
+	background:url("")center no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+/*propiedades del texto*/
+.tex1{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 120px;
+	font-family: cursive;
+	border: 1px solid gray;
+}
+img{
+	
+	width: 100%;	
+}
+p{
+	text-align: justify;
+	color: black;
+	font-family: sans;
+}
+.cuadritos{
+	border: 1px solid gray;
+	height: 50px;
+	width: 50px;
+}
+.titulo{color: green;text-align: center
+
+}
